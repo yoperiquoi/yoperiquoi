@@ -1,4 +1,4 @@
-### Hi there, I'm Yoann PERIQUOI a french developer and welcome to my personal GitHub page 👋!
+### Hi there, I'm Yoann PERIQUOI a french developper and welcome to my personal GitHub page 👋!
 
 
 
