@@ -1,6 +1,6 @@
 ### Hi there, I'm Yoann PERIQUOI a french developper and welcome to my personal GitHub page 👋!
 
-
+![yoperiquoi](https://socialify.git.ci/yoperiquoi/yoperiquoi/image?description=1&descriptionEditable=a%20software%20engineering%20student%20at%20IMT%20Atlantique%2C%20France&font=Raleway&language=1&pattern=Diagonal%20Stripes&theme=Dark)
 
 - 🛠 I’m currently working for Fuji Electric France S.A.S. as a computer science intern. 
 I'm in charge of the development of internal software such as heavy client to test smoke analysis systems (in .NET XAML C# with Visual Studio).
